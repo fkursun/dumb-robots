@@ -1,7 +1,7 @@
 {
-  "main.css": "/dumb-robots/static/css/main.0a330b90.chunk.css",
-  "main.js": "/dumb-robots/static/js/main.b2dbc1eb.chunk.js",
-  "main.js.map": "/dumb-robots/static/js/main.b2dbc1eb.chunk.js.map",
+  "main.css": "/dumb-robots/static/css/main.255450e8.chunk.css",
+  "main.js": "/dumb-robots/static/js/main.3e224c61.chunk.js",
+  "main.js.map": "/dumb-robots/static/js/main.3e224c61.chunk.js.map",
   "static/css/1.cdc0a65e.chunk.css": "/dumb-robots/static/css/1.cdc0a65e.chunk.css",
   "static/js/1.0ea688f2.chunk.js": "/dumb-robots/static/js/1.0ea688f2.chunk.js",
   "static/js/1.0ea688f2.chunk.js.map": "/dumb-robots/static/js/1.0ea688f2.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/dumb-robots/static/js/runtime~main.a2e4046c.js.map",
   "static/css/1.cdc0a65e.chunk.css.map": "/dumb-robots/static/css/1.cdc0a65e.chunk.css.map",
   "static/media/App.css": "/dumb-robots/static/media/SEGA.12a3db8b.woff",
-  "static/css/main.0a330b90.chunk.css.map": "/dumb-robots/static/css/main.0a330b90.chunk.css.map",
+  "static/css/main.255450e8.chunk.css.map": "/dumb-robots/static/css/main.255450e8.chunk.css.map",
   "index.html": "/dumb-robots/index.html",
-  "precache-manifest.e676047bc6f3c14b6262aa253f30081e.js": "/dumb-robots/precache-manifest.e676047bc6f3c14b6262aa253f30081e.js",
+  "precache-manifest.8f4697cabe56e33a9c1b310c5eca1a92.js": "/dumb-robots/precache-manifest.8f4697cabe56e33a9c1b310c5eca1a92.js",
   "service-worker.js": "/dumb-robots/service-worker.js"
 }

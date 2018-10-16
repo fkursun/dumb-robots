@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/dumb-robots/static/js/runtime~main.a2e4046c.js"
   },
   {
-    "revision": "b2dbc1ebc23c9e552dc4",
-    "url": "/dumb-robots/static/js/main.b2dbc1eb.chunk.js"
+    "revision": "3e224c61b83e3bac1bcb",
+    "url": "/dumb-robots/static/js/main.3e224c61.chunk.js"
   },
   {
     "revision": "0ea688f289915e1413cb",
     "url": "/dumb-robots/static/js/1.0ea688f2.chunk.js"
   },
   {
-    "revision": "b2dbc1ebc23c9e552dc4",
-    "url": "/dumb-robots/static/css/main.0a330b90.chunk.css"
+    "revision": "3e224c61b83e3bac1bcb",
+    "url": "/dumb-robots/static/css/main.255450e8.chunk.css"
   },
   {
     "revision": "0ea688f289915e1413cb",
     "url": "/dumb-robots/static/css/1.cdc0a65e.chunk.css"
   },
   {
-    "revision": "4f80c7408f82a12732a6e3419fec6a6e",
+    "revision": "ba4f1aa93141166fabff4092842662af",
     "url": "/dumb-robots/index.html"
   }
 ];
