@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/dumb-robots/static/js/runtime~main.a2e4046c.js"
   },
   {
-    "revision": "3e224c61b83e3bac1bcb",
-    "url": "/dumb-robots/static/js/main.3e224c61.chunk.js"
+    "revision": "5d745c96a9613025d204",
+    "url": "/dumb-robots/static/js/main.5d745c96.chunk.js"
   },
   {
     "revision": "0ea688f289915e1413cb",
     "url": "/dumb-robots/static/js/1.0ea688f2.chunk.js"
   },
   {
-    "revision": "3e224c61b83e3bac1bcb",
+    "revision": "5d745c96a9613025d204",
     "url": "/dumb-robots/static/css/main.255450e8.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dumb-robots/static/css/1.cdc0a65e.chunk.css"
   },
   {
-    "revision": "bc0ee80f8c521e85b1ba699eb33ad4f7",
+    "revision": "b03a1983d38f2e1a23a5f9e0025c1554",
     "url": "/dumb-robots/index.html"
   }
 ];
