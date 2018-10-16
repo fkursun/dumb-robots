@@ -1,7 +1,7 @@
 {
   "main.css": "/dumb-robots/static/css/main.255450e8.chunk.css",
-  "main.js": "/dumb-robots/static/js/main.5d745c96.chunk.js",
-  "main.js.map": "/dumb-robots/static/js/main.5d745c96.chunk.js.map",
+  "main.js": "/dumb-robots/static/js/main.4da4f4aa.chunk.js",
+  "main.js.map": "/dumb-robots/static/js/main.4da4f4aa.chunk.js.map",
   "static/css/1.cdc0a65e.chunk.css": "/dumb-robots/static/css/1.cdc0a65e.chunk.css",
   "static/js/1.0ea688f2.chunk.js": "/dumb-robots/static/js/1.0ea688f2.chunk.js",
   "static/js/1.0ea688f2.chunk.js.map": "/dumb-robots/static/js/1.0ea688f2.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/App.css": "/dumb-robots/static/media/SEGA.12a3db8b.woff",
   "static/css/main.255450e8.chunk.css.map": "/dumb-robots/static/css/main.255450e8.chunk.css.map",
   "index.html": "/dumb-robots/index.html",
-  "precache-manifest.f9e1c81957031d761b4f2b742e38b957.js": "/dumb-robots/precache-manifest.f9e1c81957031d761b4f2b742e38b957.js",
+  "precache-manifest.8043f452bdd3cf2addc657362208d521.js": "/dumb-robots/precache-manifest.8043f452bdd3cf2addc657362208d521.js",
   "service-worker.js": "/dumb-robots/service-worker.js"
 }
