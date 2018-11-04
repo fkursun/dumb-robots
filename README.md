@@ -1,4 +1,4 @@
-# robofriends
+# dumb robots
 
 To run the project:
 
